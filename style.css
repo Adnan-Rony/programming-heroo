@@ -220,7 +220,7 @@ font-size: 40px;
 padding: 5px;
 }
 .last-section-container{
-    background-image: url(../assisgment-01/rectangle\ 9.png);
+    background-image: url(../rectangle\ 9.png);
     background-repeat: no-repeat;
     /* background-size:cover; */
     height: 100vh;
@@ -272,16 +272,31 @@ text-align: center;
 }
 .contact-container{
     background-color: gray;
-    height: 100vh;
+    height: 85vh;
 }
 
 .contact-h1{
     font-size: 40px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+   
+    margin-bottom: 0px;
   
     
 }
+
+.contact-img{
+    justify-content: center;
+    align-items: center;
+    
+}
+.contact-h2{
+    font-size: 40px;
+   text-align: center;
+  /* text-decoration: underline; */
+  padding-top: 5px;
+ 
+}
+
+
 /* .input-item{
     align-items: center;
     text-align: center;
@@ -296,6 +311,15 @@ text-align: center;
     border-radius: 15px;
     /* margin-right: 90px; */
 }
+
+.contact-p{
+    padding: 2px;
+    text-align: center;
+}
+
+
+
+
 .column{
     display: flex;
     justify-content: space-around;
