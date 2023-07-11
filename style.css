@@ -220,7 +220,7 @@ font-size: 40px;
 padding: 5px;
 }
 .last-section-container{
-    background-image: url(./flower-asset/rectangle-9.png);
+    background-image: url(./rectangle-9.png);
     background-repeat: no-repeat;
     /* background-size:cover; */
     height: 100vh;
